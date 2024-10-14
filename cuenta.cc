@@ -1,6 +1,6 @@
 #include <cmath>
 #include <iostream>
-#include "Cuenta.h"
+#include "cuenta.h"
 
 using namespace std;
 
